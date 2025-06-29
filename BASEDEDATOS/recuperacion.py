@@ -31,4 +31,4 @@ nombres_famosos_encontrados = recuperar_nombres(ruta_a_la_carpeta_train)
 nombres_de_fotos_encontrados = obtener_nombres_imagenes(ruta_a_la_carpeta_train)
 
 print(f"Los nombres de los famosos encontrados son: {nombres_famosos_encontrados}")
-print(f"Los nombres de las imágenes encontradas son: {nombres_de_fotos_encontrados}")
+print(f"Los nombres de las imagenes encontradas son: {nombres_de_fotos_encontrados}")
